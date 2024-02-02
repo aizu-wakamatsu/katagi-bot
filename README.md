@@ -28,3 +28,6 @@ Slack側設定画面の`Features/OAuth & Permissions` > `Scopes` > `Bot Token Sc
 - `chat:write.public`
 - `commands`
 
+### [Slack] その他
+
+gas/slack/manifest.ymlを参照
